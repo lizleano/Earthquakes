@@ -1,6 +1,6 @@
 // Store url to get eartquake data
-var url="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson";
-// var url = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson";
+// var url="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson";
+var url = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson";
 
 var colors = [
 	"#2EDB23",
